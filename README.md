@@ -5,3 +5,6 @@ This project aims to count every vehicle (motorcycle, bus, car, cycle, truck, tr
 
 You can easily run this jupyter notebook file in less amount of time on google colab
 link here: https://colab.research.google.com/drive/15v91FoDmusJ-Mpf_QiOZ5hh_ErBwZ7Fo?usp=sharing#scrollTo=MmP-QKiYYTlI
+
+NOTE :- you can see short demo video here of tast video through google drive link  given by Arab Easy team
+ and but you can also check your full video task those you was give during this task
